@@ -1,0 +1,7 @@
+{
+    "keep_alive_url": "https://www.gstatic.com/generate_204",
+    "interval": 20,
+    "log_file": "C:/temp/keepalive_debug.log",
+    "timeout": 12,
+    "dns_timeout": 6
+}
